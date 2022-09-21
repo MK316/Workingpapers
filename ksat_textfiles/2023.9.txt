@@ -1,0 +1,825 @@
+1
+8
+  1번부터 17번까지는 듣고 답하는 문제입니다. 1번부터 
+15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 
+들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.
+1. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 
+고르시오.
+① 비상 시 대피 장소를 안내하려고
+② 버스 출발 시간 변경을 공지하려고
+③ 차량 운행 중 안전벨트 착용을 당부하려고
+④ 버스 내 휴대 전화 통화 자제를 요청하려고
+⑤ 차량 내 무선 인터넷 연결 방법을 설명하려고
+2. 대화를 듣고, 여자의 의견으로 가장 적절한 것을 고르시오.
+① 라디오를 듣는 것은 행복감을 높여 준다.
+② 인터넷 발달은 라디오의 대중화에 기여한다.
+③ 노년층을 위한 멀티미디어 교육이 필요하다.
+④ 대화할 때는 상대방의 말을 경청하는 것이 중요하다.
+⑤ 라디오 프로그램 편성 시 청취 연령을 고려해야 한다.
+3. 대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오.
+① 건축가 － 건물 주인
+② 코딩 강사 － 수강생
+③ 영양사 － 과일 도매상
+④ 음식 평론가 － 요리사
+⑤ 홍보 회사 직원－ 과일 농장 주인
+4. 대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 고르시오.
+5. 대화를 듣고, 여자가 할 일로 가장 적절한 것을 고르시오.
+① 현수막 걸기
+② 의자 배치하기
+③ 카메라 설치하기
+④ 디제이 일정 조율하기
+⑤ 마이크 상태 확인하기
+6. 대화를 듣고, 남자가 지불할 금액을 고르시오. [3점]
+① $45
+② $54
+③ $63
+④ $65
+⑤ $70
+7. 대화를 듣고, 여자가 밴드 오디션에 참가하지 않은 이유를 
+고르시오.
+① 기타에 문제가 생겨서
+② 몸 상태가 좋지 않아서
+③ 졸업 시험을 치러야 해서
+④ 취업 면접 일정과 겹쳐서
+⑤ 가족 행사에 참여해야 해서
+8. 대화를 듣고, Kint Chocolate Museum에 관해 언급되지 않은 
+것을 고르시오.
+① 위치
+② 개관 시간
+③ 입장료
+④ 선물 가게
+⑤ 휴관일
+9. Endangered Animals Photo Exhibition에 관한 다음 내용을 듣고, 
+일치하지 않는 것을 고르시오.
+① 3주 동안 지속된다.
+② 멸종 위기 동물들의 사진 100장이 전시된다.
+③ 사진 속 동물들이 멸종 위기에 처한 이유가 설명되어 있다.
+④ 수익금 전액은 동물 보호 센터에 기부될 것이다.
+⑤ 멸종 위기 동물 포스터를 무료로 제공할 것이다.
+10. 다음 표를 보면서 대화를 듣고, 두 사람이 주문할 기내 휴대용 
+가방을 고르시오.
+Carry-On Bags for Kids
+Model
+Price
+Height
+(inches)
+Color
+Material
+①
+A
+$35
+14
+Red
+Plastic
+②
+B
+$50
+16
+Blue
+Plastic
+③
+C
+$70
+16
+Pink
+Fabric
+④
+D
+$95
+18
+Black
+Fabric
+⑤
+E
+$110
+18
+Purple
+Aluminum
+11. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 
+적절한 것을 고르시오.
+① Sorry. I broke the bottles by accident.
+② Sure. Let’s remove the labels together.
+③ You shouldn’t. Your hands are still dirty.
+④ I agree. Recycled paper bags are cheaper.
+⑤ No problem. I’m going to order some bottles.
+12. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
+적절한 것을 고르시오.
+① Sounds wonderful! That fits our budget.
+② Terrific! I’m glad we’re done with the project.
+③ Too bad. There’s no ticket available for your trip.
+④ Okay. I’ll reschedule the meeting and let you know.
+⑤ Thanks for offering. I’ll be happy to join your team.
+2023학년도 대학수학능력시험 9월 모의평가 문제지
+제 3 교시
+1
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+2
+2
+8
+13. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 
+적절한 것을 고르시오.
+Woman:
+① Of course. I accept the instructor position.
+② Great. Let me sign up for the 8 p.m. class, then.
+③ Please write your name down on the waiting list.
+④ Thanks for the refund of my class registration fee.
+⑤ Sounds exciting. Good luck on your ballet performance.
+14. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
+적절한 것을 고르시오. [3점]
+Man:
+① Thanks for telling me. I’ll call her and apologize.
+② Good idea. Don’t forget to bring your tennis shoes.
+③ Not really. The match wasn’t as good as I expected.
+④ Fine. Promise me you’ll do your best to win the match.
+⑤ I understand. I’ll give you more time to finish the series.
+15. 다음 상황 설명을 듣고, Randy가 Angela에게 할 말로 가장 
+적절한 것을 고르시오. [3점]
+Randy:
+① Why don’t you find members to form a drone racing club?
+② I think you should become friends with the transfer student.
+③ Practice more if you want to participate in the next race.
+④ Safety comes first when it comes to flying drones.
+⑤ How about buying a drone of your own?
+[16～17] 다음을 듣고, 물음에 답하시오.
+16. 여자가 하는 말의 주제로 가장 적절한 것은?
+① positive effects of plants on insects
+② diverse purposes of plant communication
+③ different methods for controlling toxic chemicals
+④ key aspects of non-verbal human communication
+⑤ important roles of plants in balancing the food chain
+17. 언급된 식물이 아닌 것은?
+① cotton plants
+② mustard plants
+③ pine trees
+④ tomato plants
+⑤ walnut trees
+18. 다음 글의 목적으로 가장 적절한 것은?
+Dear Natalie Talley,
+My name is Olivia Spikes, the mayor of Millstown. Before you 
+attend the world championships next month, on behalf of 
+everyone in Millstown, I wish to let you know that we are 
+supporting you all the way. As you are the first famous figure 
+skater from Millstown, we are all big fans of yours. Our 
+community was so proud of you for winning the national 
+championships last year. Your amazing performance really 
+moved us all. We all believe that you are going to impress the 
+entire nation again. Your hometown supporters will cheer for 
+you whenever you perform on the ice. Good luck!
+Best wishes,
+Olivia Spikes
+① 지역 사회 홍보 대사로 활동해 줄 것을 제안하려고
+② 이웃 도시와 예정된 친선 경기 취소를 통보하려고
+③ 지역 사회 출신 피겨 스케이팅 선수를 응원하려고
+④ 시청에서 주관하는 연례 자선 행사를 홍보하려고
+⑤ 피겨 스케이팅 경기장 건립을 위한 기부를 요청하려고
+19. 다음 글에 드러난 Nathan의 심경 변화로 가장 적절한 것은?
+“Daddy!” Jenny called, waving a yellow crayon in her little 
+hand. Nathan approached her, wondering why she was calling 
+him. Jenny, his three-year-old toddler, was drawing a big circle 
+on a piece of paper. “What are you doing, Sweetie?” Nathan 
+asked with interest. She just kept drawing without reply. He 
+continued watching her, wondering what she was working on. 
+She was drawing something that looked like a face. When she 
+finished it, Jenny shouted, “Look, Daddy!” She held her artwork 
+up proudly. Taking a closer look, Nathan recognized that it was 
+his face. The face had two big eyes and a beard just like his. He 
+loved Jenny’s work. Filled with joy and happiness, Nathan gave 
+her a big hug. 
+* toddler: 아장아장 걷는 아이
+① sorrowful → relieved
+② frustrated → satisfied
+③ worried
+→ scared
+④ curious
+→ delighted
+⑤ hopeful
+→ disappointed
+20. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은?
+Becoming competent in another culture means looking 
+beyond behavior to see if we can understand the attitudes, 
+beliefs, and values that motivate what we observe. By looking 
+only at the visible aspects of culture ― customs, clothing, 
+food, and language ― we develop a short-sighted view of 
+intercultural understanding ― just the tip of the iceberg, really. 
+If we are to be successful in our business interactions with 
+people who have different values and beliefs about how the 
+world is ordered, then we must go below the surface of what it 
+means to understand culture and attempt to see what Edward 
+Hall calls the “hidden dimensions.” Those hidden aspects are 
+the very foundation of culture and are the reason why culture 
+is actually more than meets the eye. We tend not to notice 
+those cultural norms until they violate what we consider to be 
+common sense, good judgment, or the nature of things.
+① 타 문화 사람들과 교류를 잘하려면 그 문화의 이면을 알아야 한다.
+② 문화 배경이 다른 직원과 협업할 때 공정하게 업무를 나눠야 한다.
+③ 여러 문화에 대한 이해를 통해 공동체 의식을 길러야 한다.
+④ 원만한 대인 관계를 위해서는 서로의 공통점을 우선 파악해야 한다.
+⑤ 문화적 갈등을 줄이려면 구성원 간의 소통을 활성화해야 한다.
+  이제 듣기 문제가 끝났습니다. 18번부터는 문제지의 지시에 
+따라 답을 하시기 바랍니다.
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+3
+3
+8
+21. 밑줄 친 send us off into different far corners of the library가 
+다음 글에서 의미하는 바로 가장 적절한 것은? [3점]
+You may feel there is something scary about an algorithm 
+deciding what you might like. Could it mean that, if computers 
+conclude you won’t like something, you will never get the 
+chance to see it? Personally, I really enjoy being directed 
+toward new music that I might not have found by myself. I can 
+quickly get stuck in a rut where I put on the same songs over 
+and over. That’s why I’ve always enjoyed the radio. But the 
+algorithms that are now pushing and pulling me through the 
+music library are perfectly suited to finding gems that I’ll like. 
+My worry originally about such algorithms was that they 
+might drive everyone into certain parts of the library, leaving 
+others lacking listeners. Would they cause a convergence of 
+tastes? But thanks to the nonlinear and chaotic mathematics 
+usually behind them, this doesn’t happen. A small divergence 
+in my likes compared to yours can send us off into different 
+far corners of the library.
+* rut: 관습, 틀
+** gem: 보석
+*** divergence: 갈라짐
+① lead us to music selected to suit our respective tastes
+② enable us to build connections with other listeners
+③ encourage us to request frequent updates for algorithms
+④ motivate us to search for talented but unknown musicians
+⑤ make us ignore our preferences for particular music genres
+22. 다음 글의 요지로 가장 적절한 것은?
+Historically, drafters of tax legislation are attentive to questions 
+of economics and history, and less attentive to moral questions. 
+Questions of morality are often pushed to the side in legislative 
+debate, labeled too controversial, too difficult to answer, or, 
+worst of all, irrelevant to the project. But, in fact, the moral 
+questions of taxation are at the very heart of the creation of tax 
+laws. Rather than irrelevant, moral questions are fundamental 
+to the imposition of tax. Tax is the application of a society’s 
+theories of distributive justice. Economics can go a long way 
+towards helping a legislature determine whether or not a 
+particular tax law will help achieve a particular goal, but 
+economics cannot, in a vacuum, identify the goal. Creating tax 
+policy requires identifying a moral goal, which is a task that 
+must involve ethics and moral analysis.
+* legislation: 입법
+** imposition: 부과
+① 분배 정의를 실현하려면 시민 단체의 역할이 필요하다.
+② 사회적 합의는 민주적인 정책 수립의 선행 조건이다.
+③ 성실한 납세는 안정적인 정부 예산 확보의 기반이 된다.
+④ 경제학은 세법을 개정할 때 이론적 근거를 제공한다.
+⑤ 세법을 만들 때 도덕적 목표를 설정하는 것이 중요하다.
+23. 다음 글의 주제로 가장 적절한 것은? [3점]
+Environmental learning occurs when farmers base decisions 
+on observations of “payoff” information. They may observe 
+their own or neighbors’ farms, but it is the empirical results they 
+are using as a guide, not the neighbors themselves. They are 
+looking at farming activities as experiments and assessing such 
+factors as relative advantage, compatibility with existing 
+resources, difficulty of use, and “trialability” ― how well can it 
+be experimented with. But that criterion of “trialability” turns 
+out to be a real problem; it’s true that farmers are always 
+experimenting, but working farms are very flawed laboratories. 
+Farmers cannot set up the controlled conditions of professional 
+test plots in research facilities. Farmers also often confront 
+complex and difficult-to-observe phenomena that would be 
+hard to manage even if they could run controlled experiments. 
+Moreover farmers can rarely acquire payoff information on 
+more than a few of the production methods they might use, 
+which makes the criterion of “relative advantage” hard to measure.
+* empirical: 경험적인
+** compatibility: 양립성
+*** criterion: 기준
+① limitations of using empirical observations in farming
+② challenges in modernizing traditional farming equipment
+③ necessity of prioritizing trialability in agricultural innovation
+④ importance of making instinctive decisions in agriculture
+⑤ ways to control unpredictable agricultural phenomena
+24. 다음 글의 제목으로 가장 적절한 것은?
+Not only musicians and psychologists, but also committed 
+music enthusiasts and experts often voice the opinion that the 
+beauty of music lies in an expressive deviation from the exactly 
+defined score. Concert performances become interesting and 
+gain in attraction from the fact that they go far beyond the 
+information printed in the score. In his early studies on musical 
+performance, Carl Seashore discovered that musicians only 
+rarely play two equal notes in exactly the same way. Within the 
+same metric structure, there is a wide potential of variations in 
+tempo, volume, tonal quality and intonation. Such variation is 
+based on the composition but diverges from it individually. We 
+generally call this ‘expressivity’. This explains why we do not 
+lose interest when we hear different artists perform the same 
+piece of music. It also explains why it is worthwhile for 
+following generations to repeat the same repertoire. New, 
+inspiring interpretations help us to expand our understanding, 
+which serves to enrich and animate the music scene.
+* deviation: 벗어남
+① How to Build a Successful Career in Music Criticism
+② Never the Same: The Value of Variation in Music Performance
+③ The Importance of Personal Expression in Music Therapy
+④ Keep Your Cool: Overcoming Stage Fright When Playing Music
+⑤ What’s New in the Classical Music Industry?
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+4
+4
+8
+25. 다음 도표의 내용과 일치하지 않는 것은?
+The graph above shows the top four European countries 
+with the most renewable energy generation capacity in 2011 
+and in 2020. ① Each of the four countries in the graph had 
+a higher capacity to generate renewable energy in 2020 than 
+its respective capacity in 2011. ② Germany’s capacity to generate 
+renewable energy in 2011 reached more than 50.0 gigawatts, 
+which was also the case in 2020. ③ Among the countries 
+above, Spain ranked in second place in terms of renewable 
+energy generation capacity in 2011 and remained in second 
+place in 2020. ④ The renewable energy generation capacity 
+of Italy in 2020 was lower than that of Spain in the same 
+year. ⑤ The renewable energy generation capacity of France 
+was higher than that of Italy in both 2011 and 2020.
+* decimal: 소수의
+26. Leon Festinger에 관한 다음 글의 내용과 일치하지 않는 것은?
+Leon Festinger was an American social psychologist. He was 
+born in New York City in 1919 to a Russian immigrant family. 
+As a graduate student at the University of Iowa, Festinger was 
+influenced by Kurt Lewin, a leading social psychologist. After 
+graduating from there, he became a professor at the Massachusetts 
+Institute of Technology in 1945. He later moved to Stanford 
+University, where he continued his work in social psychology. 
+His theory of social comparison earned him a good reputation. 
+Festinger actively participated in international scholarly 
+cooperation. In the late 1970s, he turned his interest to the field 
+of history. He was one of the most cited psychologists of the 
+twentieth century. Festinger’s theories still play an important 
+role in psychology today.
+① 러시아인 이민자 가정에서 태어났다.
+② 사회 심리학자 Kurt Lewin에게 영향을 받았다.
+③ Stanford University에서 사회 심리학 연구를 중단했다.
+④ 국제 학술 협력에 활발하게 참여했다.
+⑤ 1970년대 후반에 역사 분야로 관심을 돌렸다.
+27. 2022 K-Tea Culture Program에 관한 다음 안내문의 내용과 
+일치하지 않는 것은?
+① 한국의 차 문화 역사에 관한 영상을 시청한다.
+② 한국 전통 다도 시연을 본다.
+③ 쿠키와 함께 차를 맛본다.
+④ 참가비에는 전통 찻잔이 포함되어 있다.
+⑤ 예약은 방문 일주일 전까지 해야 한다.
+28. Career Day with a Big Data Expert에 관한 다음 안내문의 
+내용과 일치하는 것은?
+① 학부모도 참여할 수 있다.
+② 참석 인원에 제한이 없다.
+③ QR 코드를 스캔하여 신청서를 작성한다.
+④ 강연 중에 음료수를 마실 수 있다.
+⑤ 참석자 중 일부만 강연자의 책을 무료로 받는다.
+2022 K-Tea Culture Program
+Evergreen Tea Society invites you to the second annual 
+K-Tea Culture Program! Come and enjoy a refreshing cup 
+of tea and learn about traditional Korean tea culture.
+Program Includes:
+1) Watching a short video about the history of Korean tea 
+culture
+2) Observing a demonstration of a traditional Korean 
+tea-ceremony (dado)
+3) Participating in the ceremony yourself
+4) Tasting a selection of teas along with cookies
+When: Saturday, September 24, 3:00 p.m.—5:00 p.m.
+Where: Evergreen Culture Center
+Participation Fee: $20 per person (traditional teacup included)
+Reservations should be made online (www.egtsociety.or.kr)
+at least one day before your visit.
+Career Day with a Big Data Expert
+Meet a Big Data expert from a leading IT company! Jill 
+Johnson, famous data analyst and bestselling author, will be 
+visiting Sovenhill High School to give a lecture on careers 
+related to Big Data.
+Participation: 
+󰠂 Sovenhill High School students only
+󰠂 Limited to 50 students
+When & Where:
+󰠂 October 15, 10:00 a.m. to 11:30 a.m. 
+󰠂 Library
+Registration: Scan the QR code to fill in 
+the application form.
+Note:
+󰠂 Drinking beverages is not permitted during the lecture.
+󰠂 The lecture will be followed by a Q&A session.
+󰠂 All participants will receive a free copy of the lecturer’s 
+book.
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+5
+5
+8
+29. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?
+Recognizing ethical issues is the most important step in 
+understanding business ethics. An ethical issue is an identifiable 
+problem, situation, or opportunity that requires a person to 
+choose from among several actions that may ① be evaluated as 
+right or wrong, ethical or unethical. ② Learn how to choose 
+from alternatives and make a decision requires not only good 
+personal values, but also knowledge competence in the business 
+area of concern. Employees also need to know when to rely on 
+their organizations’ policies and codes of ethics or ③ have 
+discussions with co-workers or managers on appropriate 
+conduct. Ethical decision making is not always easy because 
+there are always gray areas ④ that create dilemmas, no matter 
+how decisions are made. For instance, should an employee 
+report on a co-worker engaging in time theft? Should a 
+salesperson leave out facts about a product’s poor safety record 
+in his presentation to a customer? Such questions require the 
+decision maker to evaluate the ethics of his or her choice and 
+decide ⑤ whether to ask for guidance.
+30. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 
+않은 것은?
+Although the wonders of modern technology have provided 
+people with opportunities beyond the wildest dreams of our 
+ancestors, the good, as usual, is weakened by a downside. One 
+of those downsides is that anyone who so chooses can pick up 
+the virtual megaphone that is the Internet and put in their two 
+cents on any of an infinite number of topics, regardless of 
+their ① qualifications. After all, on the Internet, there are no 
+regulations ② preventing a kindergarten teacher from offering 
+medical advice or a physician from suggesting ways to safely 
+make structural changes to your home. As a result, misinformation 
+gets disseminated as information, and it is not always easy to
+③ differentiate the two. This can be particularly frustrating for 
+scientists, who spend their lives learning how to understand 
+the intricacies of the world around them, only to have their 
+work summarily ④ challenged by people whose experience 
+with the topic can be measured in minutes. This frustration is 
+then ⑤ diminished by the fact that, to the general public, both 
+the scientist and the challenger are awarded equal credibility.
+* put in one’s two cents: 의견을 말하다
+** disseminate: 퍼뜨리다
+*** intricacy: 복잡성
+[31～34] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+31. More than just having territories, animals also partition 
+them. And this insight turned out to be particularly useful for 
+zoo husbandry. An animal’s territory has an internal 
+arrangement that Heini Hediger compared to the inside of a 
+person’s house. Most of us assign separate functions to 
+separate rooms, but even if you look at a one-room house 
+you will find the same internal specialization. In a cabin or 
+a mud hut, or even a Mesolithic cave from 30,000 years ago, 
+this part is for cooking, that part is for sleeping; this part is for 
+making tools and weaving, that part is for waste. We keep 
+. To a varying extent, other 
+animals do the same. A part of an animal’s territory is for 
+eating, a part for sleeping, a part for swimming or wallowing, 
+a part may be set aside for waste, depending on the species of 
+animal.
+* husbandry: 관리
+① an interest in close neighbors
+② a neat functional organization
+③ a stock of emergency supplies
+④ a distance from potential rivals
+⑤ a strictly observed daily routine
+32. Fans feel for feeling’s own sake. They make meanings 
+beyond what seems to be on offer. They build identities and 
+experiences, and make artistic creations of their own to share 
+with others. A person can be an individual fan, feeling an 
+“idealized connection with a star, strong feelings of memory 
+and nostalgia,” and engaging in activities like “collecting to 
+develop a sense of self.” But, more often, individual 
+experiences are embedded in social contexts where other 
+people with shared attachments socialize around the object 
+of their affections. Much of the pleasure of fandom 
+. In their 
+diaries, Bostonians of the 1800s described being part of the 
+crowds at concerts as part of the pleasure of attendance. A 
+compelling argument can be made that what fans love is less 
+the object of their fandom than the attachments to (and 
+differentiations from) one another that those affections afford.
+* embed: 끼워 넣다
+** compelling: 강력한
+① is enhanced by collaborations between global stars
+② results from frequent personal contact with a star
+③ deepens as fans age together with their idols
+④ comes from being connected to other fans
+⑤ is heightened by stars’ media appearances
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+6
+6
+8
+33. There was nothing modern about the idea of men making 
+women’s clothes ― we saw them doing it for centuries in the 
+past. In the old days, however, the client was always primary 
+and her tailor was an obscure craftsman, perhaps talented but 
+perhaps not. She had her own ideas like any patron, there were 
+no fashion plates, and the tailor was simply at her service, 
+perhaps with helpful suggestions about what others were 
+wearing. Beginning in the late nineteenth century, with the 
+hugely successful rise of the artistic male couturier, it was the 
+designer who became celebrated, and the client elevated by his 
+inspired attention. In a climate of admiration for male artists and 
+their female creations, the dress-designer first flourished as the 
+same sort of creator. Instead of the old rule that dressmaking is a 
+craft, 
+ was 
+invented that had not been there before. [3점]
+* obscure: 무명의
+** patron: 후원자
+*** couturier: 고급 여성복 디자이너
+① a profitable industry driving fast fashion
+② a widespread respect for marketing skills
+③ a public institution preserving traditional designs
+④ a modern connection between dress-design and art
+⑤ an efficient system for producing affordable clothing
+34. In trying to explain how different disciplines attempt to 
+understand autobiographical memory the literary critic Daniel 
+Albright said, “Psychology is a garden, literature is a 
+wilderness.” He meant, I believe, that psychology seeks to make 
+patterns, find regularity, and ultimately impose order on human 
+experience and behavior. Writers, by contrast, dive into the 
+unruly, untamed depths of human experiences. What he said 
+about understanding memory can be extended to our questions 
+about young children’s minds. If we psychologists are too bent 
+on identifying the orderly pattern, the regularities of children’s 
+minds, we may miss an essential and pervasive characteristic of 
+our topic: the child’s more unruly and imaginative ways of 
+talking and thinking. It is not only the developed writer or 
+literary scholar who seems drawn toward a somewhat wild and 
+idiosyncratic way of thinking; young children are as well. The 
+psychologist interested in young children may have to 
+ in 
+order to get a good picture of how children think. [3점]
+* unruly: 제멋대로 구는
+** pervasive: 널리 퍼져 있는
+*** idiosyncratic: 색다른
+① venture a little more often into the wilderness
+② help them recall their most precious memories
+③ better understand the challenges of parental duty
+④ disregard the key characteristics of children’s fiction
+⑤ standardize the paths of their psychological development
+35. 다음 글에서 전체 흐름과 관계 없는 문장은?
+Because plants tend to recover from disasters more quickly 
+than animals, they are essential to the revitalization of 
+damaged environments. Why do plants have this preferential 
+ability to recover from disaster? It is largely because, unlike 
+animals, they can generate new organs and tissues throughout 
+their life cycle. ① This ability is due to the activity of plant 
+meristems ― regions of undifferentiated tissue in roots and 
+shoots that can, in response to specific cues, differentiate into 
+new tissues and organs. ② If meristems are not damaged 
+during disasters, plants can recover and ultimately transform 
+the destroyed or barren environment. ③ You can see this 
+phenomenon on a smaller scale when a tree struck by lightning 
+forms new branches that grow from the old scar. ④ In the form 
+of forests and grasslands, plants regulate the cycling of water 
+and adjust the chemical composition of the atmosphere. ⑤ In 
+addition to regeneration or resprouting of plants, disturbed 
+areas can also recover through reseeding.
+* revitalization: 소생
+[36～37] 주어진 글 다음에 이어질 글의 순서로 가장 적절한 
+것을 고르시오.
+36.
+When two natural bodies of water stand at different levels, 
+building a canal between them presents a complicated 
+engineering problem. 
+(A) Then the upper gates open and the ship passes through. 
+For downstream passage, the process works the opposite 
+way. The ship enters the lock from the upper level, and 
+water is pumped from the lock until the ship is in line 
+with the lower level.
+(B) When a vessel is going upstream, the upper gates stay 
+closed as the ship enters the lock at the lower water level. 
+The downstream gates are then closed and more water is 
+pumped into the basin. The rising water lifts the vessel to 
+the level of the upper body of water.
+(C) To make up for the difference in level, engineers build 
+one or more water “steps,” called locks, that carry ships 
+or boats up or down between the two levels. A lock is an 
+artificial water basin. It has a long rectangular shape with 
+concrete walls and a pair of gates at each end.
+* rectangular: 직사각형의
+① (A) － (C) － (B)
+② (B) － (A) － (C)
+③ (B) － (C) － (A)
+④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+7
+7
+8
+37.
+Culture operates in ways we can consciously consider 
+and discuss but also in ways of which we are far less 
+cognizant.
+(A) In some cases, however, we are far less aware of why we 
+believe a certain claim to be true, or how we are to 
+explain why certain social realities exist. Ideas about the 
+social world become part of our worldview without our 
+necessarily being aware of the source of the particular 
+idea or that we even hold the idea at all.
+(B) When we have to offer an account of our actions, we 
+consciously understand which excuses might prove 
+acceptable, given the particular circumstances we find 
+ourselves in. In such situations, we use cultural ideas as 
+we would use a particular tool.
+(C) We select the cultural notion as we would select a 
+screwdriver: certain jobs call for a Phillips head while 
+others require an Allen wrench. Whichever idea we insert 
+into the conversation to justify our actions, the point is 
+that our motives are discursively available to us. They are 
+not hidden. [3점]
+* cognizant: 인식하는
+** discursively: 만연하게
+① (A) － (C) － (B)
+② (B) － (A) － (C)
+③ (B) － (C) － (A)
+④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)
+[38～39] 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 
+적절한 곳을 고르시오.
+38.
+In particular, they define a group as two or more people who 
+interact with, and exert mutual influences on, each other.
+In everyday life, we tend to see any collection of people as 
+a group. ( ① ) However, social psychologists use this term 
+more precisely. ( ② ) It is this sense of mutual interaction or 
+inter-dependence for a common purpose which distinguishes 
+the members of a group from a mere aggregation of 
+individuals. ( ③ ) For example, as Kenneth Hodge observed, 
+a collection of people who happen to go for a swim after work 
+on the same day each week does not, strictly speaking, 
+constitute a group because these swimmers do not interact 
+with each other in a structured manner. ( ④ ) By contrast, 
+a squad of young competitive swimmers who train every morning 
+before going to school is a group because they not only share 
+a common objective (training for competition) but also interact 
+with each other in formal ways (e.g., by warming up together 
+beforehand). ( ⑤ ) It is this sense of people coming together 
+to achieve a common objective that defines a “team”.
+* exert: 발휘하다
+** aggregation: 집합
+39.
+On top of the hurdles introduced in accessing his or her 
+money, if a suspected fraud is detected, the account holder 
+has to deal with the phone call asking if he or she made 
+the suspicious transactions.
+Each new wave of technology is intended to enhance user 
+convenience, as well as improve security, but sometimes these 
+do not necessarily go hand-in-hand. For example, the 
+transition from magnetic stripe to embedded chip slightly 
+slowed down transactions, sometimes frustrating customers in 
+a hurry. ( ① ) Make a service too burdensome, and the potential 
+customer will go elsewhere. ( ② ) This obstacle applies at 
+several levels. ( ③ ) Passwords, double-key identification, 
+and biometrics such as fingerprint-, iris-, and voice recognition 
+are all ways of keeping the account details hidden from 
+potential fraudsters, of keeping your data dark. ( ④ ) But they 
+all inevitably add a burden to the use of the account. ( ⑤ ) This 
+is all useful at some level ― indeed, it can be reassuring 
+knowing that your bank is keeping alert to protect you ― but 
+it becomes tiresome if too many such calls are received. [3점]
+* fraud: 사기
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), 
+(B)에 들어갈 말로 가장 적절한 것은?
+A striving to demonstrate individual personality through 
+designs should not be surprising. Most designers are 
+educated to work as individuals, and design literature 
+contains countless references to ‘the designer’. Personal 
+flair is without doubt an absolute necessity in some product 
+categories, particularly relatively small objects, with a low 
+degree of technological complexity, such as furniture, 
+lighting, small appliances, and housewares. In larger-scale 
+projects, however, even where a strong personality exercises 
+powerful influence, the fact that substantial numbers of 
+designers are employed in implementing a concept can 
+easily be overlooked. The emphasis on individuality is 
+therefore problematic ― rather than actually designing, 
+many successful designer ‘personalities’ function more as 
+creative managers. A distinction needs to be made between 
+designers working truly alone and those working in a group. 
+In the latter case, management organization and processes 
+can be equally as relevant as designers’ creativity.
+* strive: 애쓰다
+** flair: 재능
+󰀻
+Depending on the
+(A)
+of a project, the capacity of 
+designers to
+(B)
+team-based working environments 
+can be just as important as their personal qualities.
+(A)
+(B)
+(A)
+(B)
+① size ……coordinate
+② cost……systematize
+③ size ……identify
+④ cost……innovate
+⑤ goal……investigate
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
+8
+8
+8
+[41～42] 다음 글을 읽고, 물음에 답하시오.
+Climate change experts and environmental humanists alike 
+agree that the climate crisis is, at its core, a crisis of the 
+imagination and much of the popular imagination is shaped by 
+fiction. In his 2016 book The Great Derangement, anthropologist 
+and novelist Amitav Ghosh takes on this relationship between 
+imagination and environmental management, arguing that 
+humans have failed to respond to climate change at least in part 
+because fiction (a) fails to believably represent it. Ghosh 
+explains that climate change is largely absent from 
+contemporary fiction because the cyclones, floods, and other 
+catastrophes it brings to mind simply seem too “improbable” 
+to belong in stories about everyday life. But climate change 
+does not only reveal itself as a series of (b) extraordinary 
+events. In fact, as environmentalists and ecocritics from Rachel 
+Carson to Rob Nixon have pointed out, environmental change 
+can be “imperceptible”; it proceeds (c) rapidly, only occasionally 
+producing “explosive and spectacular” events. Most climate 
+change impacts cannot be observed day-to-day, but they 
+become (d) visible when we are confronted with their 
+accumulated impacts.
+Climate change evades our imagination because it poses 
+significant representational challenges. It cannot be observed 
+in “human time,” which is why documentary filmmaker Jeff 
+Orlowski, who tracks climate change effects on glaciers and 
+coral reefs, uses “before and after” photographs taken several 
+months apart in the same place to (e) highlight changes that 
+occurred gradually.
+* anthropologist: 인류학자
+** catastrophe: 큰 재해
+*** evade: 피하다
+41. 윗글의 제목으로 가장 적절한 것은?
+① Differing Attitudes Towards Current Climate Issues
+② Slow but Significant: The History of Ecological Movements
+③ The Silence of Imagination in Representing Climate Change
+④ Vivid Threats: Climate Disasters Spreading in Local Areas
+⑤ The Rise and Fall of Environmentalism and Ecocriticism
+42. 밑줄 친 (a)～(e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 
+것은? [3점]
+① (a)
+② (b)
+③ (c)
+④ (d)
+⑤ (e)
+[43～45] 다음 글을 읽고, 물음에 답하시오.
+(A)
+Walking out of Charing Cross Station in London, Emilia 
+and her traveling companion, Layla, already felt their hearts 
+pounding. It was the second day of their European summer 
+trip. They were about to visit one of the world’s most famous 
+art galleries. The two of them started hurrying with 
+excitement. Suddenly, Emilia shouted, “Look! There it is! 
+We’re finally at the National Gallery!” Layla laughed and 
+responded, “(a) Your dream’s finally come true!”
+(B)
+“Don’t lose hope yet! Which gallery is the special exhibition 
+at?” Layla asked. Emilia responded, “Well, his Sunflowers is 
+still in England, but it’s at a gallery in Liverpool. That’s a long 
+way, isn’t it?” After a quick search on her phone, Layla stated, 
+“No! It’s only two hours to Liverpool by train. The next train 
+leaves in an hour. Why don’t we take it?” After considering the 
+idea, Emilia, now relieved, responded, “Yeah, but (b) you 
+always wanted to see Rembrandt’s paintings. Let’s do that first, 
+Layla! Then, after lunch, we can catch the next train.” Layla 
+smiled brightly.
+(C)
+However, after searching all the exhibition rooms, Emilia 
+and Layla couldn’t find van Gogh’s masterpiece anywhere. 
+“That’s weird. Van Gogh’s Sunflowers should be here. Where 
+is it?” Emilia looked upset, but Layla kept calm and said, 
+“Maybe (c) you’ve missed a notice about it. Check the 
+National Gallery app.” Emilia checked it quickly. Then, she 
+sighed, “Sunflowers isn’t here! It’s been lent to a different 
+gallery for a special exhibition. (d) I can’t believe I didn’t 
+check!”
+(D)
+Upon entering the National Gallery, Emilia knew exactly 
+where to go first. (e) She grabbed Layla’s hand and dragged her 
+hurriedly to find van Gogh’s Sunflowers. It was Emilia’s 
+favorite painting and had inspired her to become a painter. 
+Emilia loved his use of bright colors and light. She couldn’t wait 
+to finally see his masterpiece in person. “It’ll be amazing to see 
+how he communicated the feelings of isolation and loneliness in 
+his work,” she said eagerly.
+43. 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 
+가장 적절한 것은?
+① (B) － (D) － (C)
+② (C) － (B) － (D)
+③ (C) － (D) － (B)
+④ (D) － (B) － (C)
+⑤ (D) － (C) － (B)
+44. 밑줄 친 (a)～(e) 중에서 가리키는 대상이 나머지 넷과 다른 
+것은?
+① (a)
+② (b)
+③ (c)
+④ (d)
+⑤ (e)
+45. 윗글에 관한 내용으로 적절하지 않은 것은?
+① Emilia와 Layla는 유럽 여행 중이었다.
+② Layla는 Emilia에게 Liverpool로 가자고 제안했다.
+③ Emilia는 기차를 점심 식사 전에 타자고 말했다.
+④ National Gallery에는 van Gogh의 Sunflowers가 없었다.
+⑤ Emilia는 van Gogh의 Sunflowers를 좋아했다.
+* 확인 사항
+◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인
+하시오.
+이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다.
