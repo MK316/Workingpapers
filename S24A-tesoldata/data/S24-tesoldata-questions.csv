@@ -1,0 +1,40 @@
+QN,Questions,Responsetype
+Q1,Timestamp,formatted digits
+Q2,Email Address,formatted strings
+Q3,Do you agree to the anonymous use of your responses for education and research purposes?,Categorical
+Q4,"If a follow-up interview is needed, would you be willing to participate? If so, please provide your phone number (e.g., 0101234567). If not, leave it blank.",number string
+Q5,Your Student ID:,number string
+Q6,Gender,Categorical
+Q7,"Age (e.g., 25)",digits
+Q8,Teaching experience:,Categorical
+Q9,1A.  How helpful/beneficial do you think coding-focused digital literacy training is for English teachers?  ,Likert
+Q10,"1B.   How would you rate your perspective on coding-focused digital literacy training before and after this course? 
+
+1 (Very negative); 6 (Very positive) [Before]",Likert
+Q11,"1B.   How would you rate your perspective on coding-focused digital literacy training before and after this course? 
+
+1 (Very negative); 6 (Very positive) [After]",Likert
+Q12,"1C.  Please elaborate on your response: How might coding-focused digital literacy training impact language teachers, positively or negatively? (Write in Korean or English)",text
+Q13,"2A.  How effective are coding-based tools in enhancing specific English language skills? 
+
+1 (Not effective at all); 6 (Highly effective) [Reading]",Likert
+Q14,"2A.  How effective are coding-based tools in enhancing specific English language skills? 
+
+1 (Not effective at all); 6 (Highly effective) [Writing]",Likert
+Q15,"2A.  How effective are coding-based tools in enhancing specific English language skills? 
+
+1 (Not effective at all); 6 (Highly effective) [Listening]",Likert
+Q16,"2A.  How effective are coding-based tools in enhancing specific English language skills? 
+
+1 (Not effective at all); 6 (Highly effective) [Speaking]",Likert
+Q17,"2B.  Which English language skill do these tools enhance most effectively, and why?  (Write in Korean or English)",
+Q18,3.  How beneficial do you think the skills and knowledge gained from coding-focused digital literacy training will be for your future English language teaching? ,Likert
+Q19,4.  How easily do you think coding-based tools can be integrated into your current English language curriculum? ,Likert
+Q20,5. How well do these tools align with your teaching methodologies in English education? ,Likert
+Q21,6.  How beneficial do you think these tools will be in addressing the diverse needs of learners with varying proficiency levels in English? ,Likert
+Q22,7.  How motivated are you to continue using and learning about coding-based tools in your teaching practice? ,Likert
+Q23,"8A.  Has your perception of the usefulness of generative AI tools, including ChatGPT, for your teaching practice changed after taking this course? ",Likert
+Q24,"8B.  Reflect on your practical experiences and perceptual changes regarding the use of generative AI tools, such as ChatGPT, over the course. ",text
+Q25,"9A.  How sufficient is the institutional support (e.g., training, technical support, curriculum) for maintaining the use of coding-based tools in your educational practice? ",Likert
+Q26,9B.  Please elaborate on what additional support or resources you believe are necessary for sustaining your development in teaching with digital literacy tools.  (Write in Korean or English),text
+Q27,"File formats (hwp, doc, pdf)",file to upload
